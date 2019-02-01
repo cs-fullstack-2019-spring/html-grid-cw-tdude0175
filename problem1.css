@@ -8,9 +8,8 @@ body
     display: grid;
     grid-gap: 10px;
     grid-template-columns: 3fr 1fr;
-    grid-template-rows: repeat(5,20%) ;
+    grid-template-rows: repeat(5,20%);
 }
-
 .piece
 {
     background: lightgray;
